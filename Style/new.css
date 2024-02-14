@@ -1,0 +1,240 @@
+/* Banner section */
+.banner{
+    margin-top: 40px;
+}
+.banner-img{
+    min-height: calc(100vh - 216px);
+    max-width: 1280px;
+    margin: auto;
+}
+.banner-text{
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+}
+.banner-title{
+    font-size: 40px;
+    font-weight: 500;
+    color: white;
+}
+.Celebration{
+    font-size: 48px;
+    font-weight: 700;
+    color: white;
+}
+
+/* discount-section */
+.discount-section{
+    text-align: center;
+    margin: auto;
+}
+.off{
+    font-size: 60px;
+    font-weight: 800;
+    color: #FF0000;
+}
+.holiday{
+    color: #FF0000;
+}
+.categories{
+    font-size: 40px;
+    font-weight: 600;
+    color: black;
+}
+.new-year-img{
+    max-width: 1280px;
+    margin: auto;
+}
+
+/* Midnight party*/
+.midnight-section{
+    margin-top: 60px;
+    min-height: calc(100vh - 256px);
+}
+.midnight-img{
+    max-width: 1240px;
+    margin: auto;
+}
+.midnight-text-container{
+    position: relative;
+    bottom: 400px;
+    margin-left: 200px;
+    color: white;
+}
+.midnight-title{
+    font-size: 48px;
+    font-weight: 600;
+}
+.midnight-btn{
+    margin-top: 30px;
+    font-weight: 600;
+    margin-left: 40px;
+}
+/* Address and Time */
+.address-time-section{
+    background-color: antiquewhite;
+    max-width: 1280px;
+    height: 450px;
+    margin: auto;
+    margin-bottom: 80px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 100px;
+    border-radius: 12px;
+}
+.color-primary{
+    color: #FF0000;
+}
+.btn-join{
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    background: #FF0000;
+    padding: 8px 12px;
+    border-radius: 8px;
+}
+/* New best offer */
+.best-offer-container{
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 80px;
+    gap: 80px;
+    align-items: center;
+}
+.best-offer-title{
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000;
+}
+.primary-title{
+    font-size: 48px;
+    font-weight: 700;
+}
+.primary-description{
+    color: gray;
+}
+.best-offer-img{
+    margin: auto;
+    padding: 10px;
+    border: 8px solid #FF0000;
+    border-radius: 100%;
+}
+.best-2024{
+    font-size: 40px;
+    font-weight: 700;
+    color: #FF0000;
+}
+
+/* Holidays Sale section */
+.holidays-container{
+    max-width: 1280px;
+    margin: auto;
+    text-align: center;
+}
+.holidays-title{
+    font-size: 24px;
+    font-weight: 600;
+}
+.holidays-sale{
+    font-size: 48px;
+    font-weight: 700;
+}
+.holidays{
+    color: #FF0000;
+}
+.holidays-img-container-1{
+    display: flex;
+    height: 500px;
+}
+.holidays-img-1{
+    position: relative;
+    top: 85px;
+    width: 800px;
+    height: 600px;
+}
+.holidays-img-2{
+    height: 400px;
+    position: relative;
+    top: 100px;
+    left: 83px;
+}
+.discount-img{
+    position: relative;
+    bottom: 580px;
+    left: 720px;
+}
+
+
+
+/* Portfolio section */
+.portfolio{
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+.protfolio-title{
+    font-size: 20px;
+    font-weight: 500;
+    color: #FF0000;
+}
+
+/* Subscribe Newsletter */
+.newsletter-container{
+    max-width: 1280px;
+    background-color: antiquewhite;
+    margin: auto;
+    margin-bottom: 80px;
+    border-radius: 12px;
+    text-align: center;
+    padding: 100px;
+}
+.newsletter-img{
+    margin-left: 450px;
+}
+.input{
+    border: none;
+}
+.btn-sub{
+    background-color: #FF0000;
+    padding: 12px;
+    padding-right: 46px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.join-input{
+    border: 2px solid gray;
+    width: 305px;
+    margin: auto;
+    margin-top: 30px;
+    background: white;
+    border-radius: 50px;
+}
+
+/* Footer */
+footer{
+    color: white;
+    background-color: black;
+    padding: 80px 130px;
+    font-weight: 500;
+}
+.first-container{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-primary{
+    display: flex;
+    gap: 15px;
+}
+.footer-icon{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 20px;
+}
+.last-container{
+    display: flex;
+    justify-content: space-between;
+}
